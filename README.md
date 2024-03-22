@@ -14,7 +14,8 @@ Step 3: Build your library using the command -
 Step 4: The wheel file is stored in the “dist” folder that is now created. And can be installed using command -
 ```pip install /path/to/wheelfile.whl```
 
-And once you have installed your Python library we can use it like normal use 
-```E.g : 
+And once you have installed your Python library we can use it like normal use like -
+``` 
 import AI_lib
-from AI_lib import aifunction```
+from AI_lib import aifunction 
+```
