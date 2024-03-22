@@ -3,7 +3,7 @@ Created a custom Python library
 
 #steps to run the repository 
 Step 1: install requirements.txt with the following command -
-pip install -r /path/to/requirements.txt
+'''pip install -r /path/to/requirements.txt'''
 
 Step 2: Run the setup.py file with the command -
 python setup.py pytest
